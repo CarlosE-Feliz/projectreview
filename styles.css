@@ -10,8 +10,6 @@ body {
 #navbar {
   position: fixed;
   min-width: 290px;
-  top: 0px;
-  left: 0px;
   width: 300px;
   height: 100%;
   border-right: solid;
@@ -21,7 +19,6 @@ body {
 
 #main-doc header {
   text-align: left;
-  margin: 0px;
 }
 
 #navbar ul {
